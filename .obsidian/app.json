@@ -1,0 +1,14 @@
+{
+  "livePreview": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Main Notes",
+  "attachmentFolderPath": "Attachments",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

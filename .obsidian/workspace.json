@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "53f85bb28ad472fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a101aaaaecc11a23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "714df6c694a271f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/M5 - Insecure Communication.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "M5 - Insecure Communication"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fad2e78f9b01312",
+    "type": "split",
+    "children": [
+      {
+        "id": "95451576a1e82c78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc310f1ca23dc37a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "81d7e5efb08be18f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "45f0f5a98ac081b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "df18fbad89807f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/M4 - Insufficient Input Output Validation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "M4 - Insufficient Input Output Validation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df343f9ec9d8a2b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4279ac7507d001ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21234f1e7ce086ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6d209b8ec491fecb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7735d26a5d8d02cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e667741a051a1bd0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "77f7cf23b5696535",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "714df6c694a271f6",
+  "lastOpenFiles": [
+    "Attachments/Pasted image 20241230213735.png",
+    "Attachments/Pasted image 20241230213721.png",
+    "Tags/certificate pinning.md",
+    "Main Notes/M5 - Insecure Communication.md",
+    "Tags/privacy violation.md",
+    "Main Notes/M4 - Insufficient Input Output Validation.md",
+    "Main Notes/M1 - Improper Credential Usage.md",
+    "Main Notes/M2 - Inadequate Supply Chain Security.md",
+    "Main Notes/M3 - Insecure Authentication, Authorization.md",
+    "Attachments/Pasted image 20241230192157.png",
+    "Attachments/Pasted image 20241230192148.png",
+    "Tags/penetration testing.md",
+    "Tags/session hijacking.md",
+    "Templates/Android Note Template.md",
+    "Main Notes/30/12/2024.md",
+    "Main Notes/30/12",
+    "Main Notes/30",
+    "Tags/Path Traversal.md",
+    "Tags/Cross-Site Scripting (XSS).md",
+    "Tags/Command Injection.md",
+    "Tags/SQL Injection.md",
+    "Attachments/Pasted image 20241225114956.png",
+    "Attachments/Pasted image 20241225114941.png",
+    "Tags/Insecure Direct Object Reference (IDOR).md",
+    "Attachments/Pasted image 20241225112545.png",
+    "Attachments/Pasted image 20241225112511.png",
+    "Attachments/Pasted image 20241225112457.png",
+    "Attachments/Pasted image 20241225110433.png",
+    "Tags/privilege escalation.md",
+    "Tags/binary attacks.md",
+    "Tags/unauthorized access.md",
+    "Tags/denial of service.md",
+    "Tags/mobile.md",
+    "Tags/android.md",
+    "Tags/year2024.md",
+    "Tags/apphacking.md",
+    "Tags/cybersecurity.md",
+    "Untitled.canvas",
+    "Attachments",
+    "Indexes",
+    "Templates",
+    "Tags",
+    "Main Notes"
+  ]
+}
